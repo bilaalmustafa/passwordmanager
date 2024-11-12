@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "378327992581",
+    "project_id": "passwardmaneger",
+    "storage_bucket": "passwardmaneger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378327992581:android:b8f25989c15b47952b8f6c",
+        "android_client_info": {
+          "package_name": "com.example.passwordmaneger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCQiSmawgCrUUx8YW1S2RbhMCNUTDJzrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
